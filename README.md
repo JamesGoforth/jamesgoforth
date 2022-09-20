@@ -45,8 +45,8 @@
  <br/>  
   <p align="center">
     <a href="https://github.com/JamesGoforth/">
-     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=JamesGoforth&show_icons=true&theme=algolia&hide_border=true" />
-     <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=JamesGoforth&theme=algolia&hide_border=true" />
+     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=JamesGoforth&show_icons=true&theme=algolia" />
+     <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=JamesGoforth&theme=algolia" />
     </a>
    </p>
   <br>
