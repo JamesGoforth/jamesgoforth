@@ -9,7 +9,7 @@
 
 ### ⌨️ Programming languages
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-ruby 
+![Ruby](https://img.shields.io/badge/Ruby-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp; 
 css
 html 
 
@@ -23,7 +23,7 @@ photoshop
 video editing 
 figma 
 
-### 🔢 Data Tools
+### 🔢 Databases & Data Analytics
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
@@ -32,6 +32,9 @@ figma
 
 
 ### ⚙ Other Software & Tools
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+
 
 <br/>
 
