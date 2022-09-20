@@ -40,13 +40,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
- <summary> ## 💻 GitHub Profile Stats </summary>
+## 💻 GitHub Profile Stats
   <div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesGoforth&layout=compact)](https://github.com/JamesGoforth/github-readme-stats)
-</a>
+          <a href="https://github.com/JamesGoforth/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesGoforth&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="JamesGoforth :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
