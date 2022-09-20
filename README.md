@@ -8,12 +8,28 @@
 ## 🛠️ My Skills
 
 ### ⌨️ Programming languages
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+ruby 
+css
+html 
 
-### 🖥 Frontend Development
+
+### ⌨️ Frameworks 
+
 
 ### 🖼 Design
 
-### 🔢 Data Analytics
+photoshop 
+video editing 
+figma 
+
+### 🔢 Data Tools
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
+![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
+ 
+
 
 ### ⚙ Other Software & Tools
 
