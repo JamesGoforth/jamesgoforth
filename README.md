@@ -57,12 +57,9 @@
 
 <div align="center">
  <a href="https://www.linkedin.com/in/jamesgoforth/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
- 
  <a href="https://twitter.com/jamesgoforth158" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 3rem"/>
  </a>
 
- <a href="www.james-goforth.com" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 3rem"/>
- </a>
 
 </div>
 
