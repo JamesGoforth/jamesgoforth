@@ -47,7 +47,7 @@
     <a href="https://github.com/JamesGoforth/">
     <img width="30%" src="https://github-readme-stats.vercel.app/api?username=JamesGoforth&show_icons=true&theme=algolia&hide_border=true" />
     <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=JamesGoforth&theme=algolia&hide_border=true" />
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/username=JamesGoforth&langs_count=6&theme=algolia&layout=compact&hide_border=true" />
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/username=JamesGoforth&langs_count=6&theme=algolia&layout=compact&hide_border=true"/>
     </a>
    </p>
   <br>
