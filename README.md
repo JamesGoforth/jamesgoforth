@@ -3,8 +3,6 @@
 <h4 align="center"> I have recently graduated from Le Wagon London.</h4>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JamesGoforth&label=Profile%20views&color=0e75b6&style=flat" alt="JamesGoforth" /> </p>
-
 
 
 ## 🛠️ My Skills
